@@ -7,7 +7,6 @@ training agenda repo
 - Ofi
 - Alvien
 - Atifa
-- Fata :)
-- .....
+- Fata :D
 - Suntanna
-
+- .....
