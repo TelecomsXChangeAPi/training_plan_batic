@@ -15,3 +15,4 @@ training agenda repo
 - Rifqi
 - Upasana
 - Alvi
+- Subhan
