@@ -5,7 +5,7 @@ training agenda repo
 
 - Fajar
 - Ofi
-- Alvein
+- Alvien
 - Atifa
 - Fata :)
 - .....
