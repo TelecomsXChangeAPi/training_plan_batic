@@ -11,5 +11,5 @@ training agenda repo
 - Fata :D
 - Suntanna
 - Fajar
-- .....
+- Alifikri
 hello this is Rifqi
