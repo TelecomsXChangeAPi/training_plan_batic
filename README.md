@@ -12,3 +12,4 @@ training agenda repo
 - Suntanna
 - Fajar
 - .....
+hello this is Rifqi
