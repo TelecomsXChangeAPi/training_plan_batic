@@ -12,7 +12,7 @@ training agenda repo
 - Suntanna
 - Fajar
 - Alifikri
-<br /> hello this is Rifqi
+- hello this is Rifqi
 - Upasana
 - Hi Rifqi
 - Alvi
