@@ -1,6 +1,6 @@
 # Training Plan for Jakarta Training
 training agenda repo
-/n 29 - 31 August 2023
+<br /> 29 - 31 August 2023
 
 # Attendees List
 
@@ -12,4 +12,4 @@ training agenda repo
 - Suntanna
 - Fajar
 - Alifikri
-/n hello this is Rifqi
+<br /> hello this is Rifqi
