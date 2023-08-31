@@ -7,4 +7,5 @@ training agenda repo
 - Ofi
 - Alvein
 - Atifa
+- Fata :)
 - .....
