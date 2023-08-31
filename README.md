@@ -1,5 +1,6 @@
 # Training Plan for Jakarta Training
 training agenda repo
+29 - 31 August 2023
 
 # Attendees List
 
