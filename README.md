@@ -10,6 +10,5 @@ training agenda repo
 - Atifa
 - Fata :D
 - Suntanna
-- Fajar2
-- Fajar3
+- Fajar
 - .....
